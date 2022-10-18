@@ -1,0 +1,11 @@
+/* Etiquetas */
+body {
+    background-color: rgb(136, 136, 210);
+}
+
+/* Clases */
+.textoCentrado {
+    text-align: center;
+}
+
+.textoRojo {color: red;}
